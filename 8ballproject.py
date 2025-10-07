@@ -32,11 +32,13 @@ elif random_number == 11:
 else:
   print("Error")
 
-#if for check if name its empty
-if name == "":
- question = "Question: " + question
- print(question) 
+#if elif for check if name or question its empty
+if name == "" and question == "":
+  print("No question can put reality at risk, think human!")
+elif name == "" and question != "":
+  question = "Question: " + question
+  print(question) 
+  print("Magic 8-Ball's answer: " + answer)
 else:
- print(name + " asks: " + question)
- 
-print("Magic 8-Ball's answer: " + answer)
+  print(name + " asks: " + question)
+  print("Magic 8-Ball's answer: " + answer)
