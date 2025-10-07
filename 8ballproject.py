@@ -1,11 +1,11 @@
 import random
 
-name = " "
+name = "Kenneth"
 question = "I will win the lottery?"
-answer = " "
+answer = ""
 
+#code for obtain print(random_number)
 random_number = random.randint(1,11)
-#print(random_number)
 
 if random_number == 1:
   answer = "Yes - definitely"
@@ -31,6 +31,7 @@ elif random_number == 11:
   answer = "Try try until achieve that"
 else:
   print("Error")
+  answer = "Error"
 
 #if elif for check if name or question its empty
 if name == "" and question == "":
