@@ -1,39 +1,66 @@
 🐍 Python Learning Projects
 
-A collection of beginner-to-intermediate Python projects developed during my learning journey on Codecademy and through personal practice.
-Each script focuses on a different programming concept — from conditionals and loops to lists and formatted output.
+A collection of Python projects developed during my learning journey on Codecademy and personal practice. Each file explores a different programming concept — from basic syntax to conditional logic, list operations, and simple business logic simulations.
 
-📂 Project Summary
-🧩 Project	📝 Description	🧠 Key Concepts	🕒 Last Updated
-🎱 8ballproject.py	A simple Magic 8 Ball simulation that returns random answers to user questions.	Randomization, input/output	Last week
-⚖️ codeyweightcalc.py	Third Codecademy project to calculate a person’s weight on different planets.	Variables, arithmetic, conditionals	2 weeks ago
-🏫 collegeevaluation.py	Simulates a college application evaluation process.	if, elif, else, logic flow	2 weeks ago
-🪑 fornitureclientreceipt.py	First Codecademy Python 3 project: generates a client receipt for furniture purchases.	Strings, variables, print formatting	2 weeks ago
-📘 gradebook.py	Sixth Codecademy project working with Python lists for grading.	Lists, appending/removing, averages	5 minutes ago
-🚢 salshipproject.py	Calculates minimum sales or shipping costs and displays results clearly.	Variables, min(), formatted output	Last week
-🛍️ webstoreproject.py	Fifth Codecademy project simulating a simple online store.	Data structures, logic, item management	—
+📂 Project List
+🎱 8ballproject.py
+
+Description: A simple implementation of the classic Magic 8 Ball game.
+Highlights: Randomized responses, input handling, and message customization.
+Last updated: Last week
+
+⚖️ codeyweightcalc.py
+
+Description: Third Codecademy project focusing on conditionals and arithmetic operations.
+Highlights: Calculates weight variations across planets using formulas and variables.
+Last updated: 2 weeks ago
+
+🏫 collegeevaluation.py
+
+Description: Evaluates college admission results using if, elif, and else statements.
+Highlights: Introduction to branching logic and comparison operators.
+Last updated: 2 weeks ago
+
+🪑 fornitureclientreceipt.py
+
+Description: First Codecademy Python 3 project simulating a furniture store receipt.
+Highlights: String concatenation, variables, and formatted output.
+Last updated: 2 weeks ago
+
+📘 gradebook.py
+
+Description: Sixth Codecademy project working with Python lists.
+Highlights: List manipulation, appending, removing, and calculating averages.
+Last updated: 5 minutes ago
+
+🚢 salshipproject.py
+
+Description: Sales and shipping calculator project.
+Highlights: Variables, minimum calculation, formatted printing, and logical structure updates.
+Last updated: Last week
+
+🛍️ webstoreproject.py
+
+Description: Fifth Codecademy project simulating an online store.
+Highlights: Data structures, inventory handling, and simple business logic.
+Last updated: —
+
 💡 Purpose
 
-This repository documents my progress through Python fundamentals, showcasing early projects that helped me understand:
+These projects are part of my progression through Python fundamentals — practicing syntax, logic, and code structure through hands-on mini-programs.
 
-Control flow and conditionals
+🧰 Technologies
 
-Data types and list manipulation
+Python 3
 
-Output formatting and user interaction
+Basic terminal input/output
 
-🧰 Technologies Used
-
-🐍 Python 3
-
-💻 Command-line interface (CLI)
-
-🎓 Codecademy Python course projects
+Codecademy exercises
 
 🚀 Next Steps
 
-Refactor existing scripts for readability and efficiency
+Refactor code for cleaner structure and reusability
 
-Add comments and inline documentation
+Add unit tests for key logic
 
-Create new projects covering functions, file handling, and object-oriented programming
+Expand documentation and comments
